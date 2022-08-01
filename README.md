@@ -1,6 +1,7 @@
 # QTicTacToe
 
 A Quantum Version of the classic TicTacToe Game. This game was originally created for the Quantum Coalition Hackathon 2022, and later polished/improved as a personal project. We are still working on a UI, so currently you can only play the game on Jupyter Notebook Consoles.
+
 ## General Rules:
 
 1. Instead of placing normal crosses and noughts, you will be placing superpositions of crosses and noughts called Qubits.
@@ -22,3 +23,4 @@ As it stands right now, this a game of odds, and in order to make it strategic, 
 
 Download the Jupyter Notebook File. Run all the cells Except the Top One! Run the Top Cell last, and Enjoy!
 
+**EDIT** Version 1 plays onthe console. Version 2 has updated graphics for the board
