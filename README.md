@@ -23,4 +23,4 @@ As it stands right now, this a game of odds, and in order to make it strategic, 
 
 Download the Jupyter Notebook File. Run all the cells Except the Top One! Run the Top Cell last, and Enjoy!
 
-**EDIT** Version 1 plays onthe console. Version 2 has updated graphics for the board
+**EDIT:** Version 1 plays on the console. Version 2 has updated graphics for the board.
